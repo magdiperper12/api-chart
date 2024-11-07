@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(181, 246, 255);
+}
+.myCha{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    width: 100%;
+    height: auto;
+    border: 1px solid #9b95ff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 25px #0800a14f;
+}
